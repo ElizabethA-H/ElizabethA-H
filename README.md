@@ -4,7 +4,7 @@
 
 - <b>Vm and Remote Desktop Set Up</b>
   - [Azure: Setting up Virtual Machine](https://github.com/elizabeth-a-h/vm-set-up)
-  - [Microsoft Remote Desktop: Setting up with Azure VM](https://github.com/elizabeth-a-h/post-install-config)
+  - [Microsoft Remote Desktop: Setting up with Azure VM](https://github.com/elizabeth-a-h/remote-desktop)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/elizabeth-a-h/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/elizabeth-a-h/post-install-config)
