@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - <b>Vm and Remote Desktop Set Up</b>
-  - [Azure: Setting up Virtual Machine](https://github.com/elizabeth-a-h/vm-set-up
+  - [Azure: Setting up Virtual Machine](https://github.com/elizabeth-a-h/vm-set-up)
   - [Microsoft Remote Desktop: Setting up with Azure VM](https://github.com/elizabeth-a-h/post-install-config)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/elizabeth-a-h/osticket-prereqs)
